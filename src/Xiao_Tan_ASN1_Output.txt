@@ -1,0 +1,24 @@
+Please Enter Your Name
+Xiao
+Pleas enter Your Password
+Tan
+Invalid Input
+Please Enter Your Name
+Name1
+Pleas enter Your Password
+1575
+You have logined in successfully
+Please Enter Your Choice, to show your balance, press '1'; to obtain cash, press '2'; to quit, press '3'
+1
+Your Balance is 12000.00
+2
+Obtain cash
+199
+You will get 9 $20 bills
+You will get 1 $10 bills
+You will get 1 $5 bills
+You will get 4 $1 bills
+1
+Your Balance is 11801.0
+3
+Quiting...
